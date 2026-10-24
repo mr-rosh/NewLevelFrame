@@ -10,8 +10,9 @@
 ## Notes-enCN: 升级事件的新框架。
 ## Notes-zhCN: 升级事件的新框架。
 ## Notes-zhTW: 升級事件的新框架。
-## Version: 1.2
+## Version: 1.3
 ## Author: alchem1ster
+## Notes-enUS: Optimized and namespaced level-up frame.
 
 localization.lua
 main.lua
